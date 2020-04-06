@@ -30,9 +30,11 @@ def static_plot(dataframe, group='municipality'):
     
     if variable=='income':
         ax.set_ylabel('Income before taxation (DKK)')
+        ax.set_title('Figure 3 Development in Income in Danish Municipalities')
         
-    elif variable=='life expectancy':
+    elif variable=='life_expectancy':
         ax.set_ylabel('Years')
+        ax.set_title('Figure 4 Development in Life Expectancy in Danish Municipalities')
 
 def interactive_plot(dataframe):
     '''Plots static plot from static_plot() as an interactive figure with drop-down menu to choose between municipalities.
