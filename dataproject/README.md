@@ -6,8 +6,8 @@ The **results** of the project can be seen from running [data_project_vores_v2.i
 
 This **loades two datasets** directly from Statistics Denmark's website:
 
-1. The table INDKP105 from statistikbanekn.dk/INDKP105
-1. The table LIV01 from statistikbanekn.dk/LIV01
+1. The table INDKP105 from statistikbanken.dk/INDKP105
+1. The table LIV01 from statistikbanken.dk/LIV01
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
