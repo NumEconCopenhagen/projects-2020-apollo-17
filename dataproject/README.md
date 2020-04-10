@@ -2,7 +2,7 @@
 
 Our project is titled 'Income and Life Expectancy in the Danish Municipalities' and is about development in the average income before taxation and life expectancy across most Danish municipalities.
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
+The **results** of the project can be seen from running [data_project_vores_v2.ipynb](dataproject.ipynb).
 
 This **loades two datasets** directly from Statistics Denmark's website:
 
